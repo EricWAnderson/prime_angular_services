@@ -16,7 +16,7 @@ app.factory('ThetaService', function(){
         mascot: 'wolverine',
         themeSong: 'Final Countdown',
         color: 'blue',
-        greekSymbol: 'theta',
+        greekSymbol: 'ϴ',
         gradDate: 'March sometime',
         size: 22,
         cohort: 'coheart',

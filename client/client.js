@@ -22,7 +22,14 @@ app.factory('ThetaService', function(){
         cohort: 'coheart',
         time: Date(),
         favoriteGame: 'SushiGO',
-        cats: true
+        cats: true,
+        languages: function(){
+            return {
+                first: 'javascript',
+                second: 'javascript',
+                third: 'javascript'
+            }
+        }
     }
 
     return {
